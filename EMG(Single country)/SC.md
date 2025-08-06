@@ -4,5 +4,4 @@ In it will join only country those ready to build new world and create soul. Bri
 country emblems:
 
 ​                                     <img src="C:\Users\aapan\OneDrive\Документы\GitHub\World-Single-Planet\EMG(Single country)\Flag.jpg" style="zoom:25%;" />    <img src="C:\Users\aapan\OneDrive\Документы\GitHub\World-Single-Planet\EMG(Single country)\gerb.png" style="zoom:25%;" />  
-
-​                                                                                 Flag                                                                                   Gerb
+                                                                        
